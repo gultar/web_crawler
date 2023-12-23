@@ -1,4 +1,4 @@
-# README for WebCrawler Script
+# Content-based WebCrawler
 
 ## Overview
 
